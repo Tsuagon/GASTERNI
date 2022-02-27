@@ -1,4 +1,8 @@
-	--[[ Script Converted by WafflesAreVeryGood (Nobody#3907 on discord) ]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
+warn("Netless Activated!")
+loadstring(game:GetObjects("rbxassetid://5425999987")[1].Source)()
+
+--[[ Script Converted by WafflesAreVeryGood (Nobody#3907 on discord) ]]--
 local plr = game:GetService('Players').LocalPlayer
 local char = plr.Character
 local mouse = plr:GetMouse()
